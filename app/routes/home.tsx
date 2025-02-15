@@ -16,7 +16,7 @@ export default function Home() {
           <div className="w-full md:w-1/2 md:px-3">
             <div className="space-y-6 sm:max-w-md lg:max-w-lg">
               <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl">
-                <span className="block xl:inline">Explore Countries with</span>
+                <span className="block xl:inline">Explore Countries with </span>
                 <span className="block text-indigo-600 xl:inline">
                   Real-Time Data
                 </span>
@@ -57,7 +57,7 @@ export default function Home() {
           <div className="w-full md:w-1/2">
             <div className="overflow-hidden rounded-md shadow-xl">
               <img
-                src="https://image.winudf.com/v2/image/Ymx1ZWNhcC5pbWFnZXouYmVhdXRpZnVsX2NvdW50cmllc193YWxscGFwZXJzX3NjcmVlbl8wXzlpMW14OWl1/screen-0.webp?fakeurl=1&type=.webp"
+                src="https://images.unsplash.com/photo-1563387852576-964bc31b73af?q=80&w=3007&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Explore countries"
                 className="w-full h-auto"
               />
